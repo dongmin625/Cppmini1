@@ -136,6 +136,7 @@
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Units.cpp" />
+    <ClCompile Include="UserManger.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ahri.hpp" />
@@ -146,6 +147,7 @@
     <ClInclude Include="Monster.hpp" />
     <ClInclude Include="Player.hpp" />
     <ClInclude Include="Units.hpp" />
+    <ClInclude Include="UserManager.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\focus\\source\\repos\\miniGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|C:\\Users\\focus\\source\\repos\\miniGame\\Garen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|solutionrelative:Garen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|C:\\Users\\focus\\source\\repos\\miniGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|C:\\Users\\focus\\source\\repos\\miniGame\\Ahri.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|solutionrelative:Ahri.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|C:\\Users\\focus\\source\\repos\\miniGame\\UserManger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|solutionrelative:UserManger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|C:\\Users\\focus\\source\\repos\\miniGame\\Ahri.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|solutionrelative:Ahri.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|C:\\Users\\focus\\source\\repos\\miniGame\\UserManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3042EAE7-59B9-4EB6-9B29-24347DE9D824}|miniGame.vcxproj|solutionrelative:UserManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Garen.cpp",
-              "DocumentMoniker": "C:\\Users\\focus\\source\\repos\\miniGame\\Garen.cpp",
-              "RelativeDocumentMoniker": "Garen.cpp",
-              "ToolTip": "C:\\Users\\focus\\source\\repos\\miniGame\\Garen.cpp",
-              "RelativeToolTip": "Garen.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAARAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\focus\\source\\repos\\miniGame\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\focus\\source\\repos\\miniGame\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T15:22:02.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ahri.hpp",
-              "DocumentMoniker": "C:\\Users\\focus\\source\\repos\\miniGame\\Ahri.hpp",
-              "RelativeDocumentMoniker": "Ahri.hpp",
-              "ToolTip": "C:\\Users\\focus\\source\\repos\\miniGame\\Ahri.hpp",
-              "RelativeToolTip": "Ahri.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T15:20:43.51Z",
+              "WhenOpened": "2025-04-24T10:13:22.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ahri.cpp",
-              "DocumentMoniker": "C:\\Users\\focus\\source\\repos\\miniGame\\Ahri.cpp",
-              "RelativeDocumentMoniker": "Ahri.cpp",
-              "ToolTip": "C:\\Users\\focus\\source\\repos\\miniGame\\Ahri.cpp",
-              "RelativeToolTip": "Ahri.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "UserManger.cpp",
+              "DocumentMoniker": "C:\\Users\\focus\\source\\repos\\miniGame\\UserManger.cpp",
+              "RelativeDocumentMoniker": "UserManger.cpp",
+              "ToolTip": "C:\\Users\\focus\\source\\repos\\miniGame\\UserManger.cpp",
+              "RelativeToolTip": "UserManger.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T15:20:37.263Z",
+              "WhenOpened": "2025-04-24T09:10:49.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.hpp",
+              "DocumentMoniker": "C:\\Users\\focus\\source\\repos\\miniGame\\UserManager.hpp",
+              "RelativeDocumentMoniker": "UserManager.hpp",
+              "ToolTip": "C:\\Users\\focus\\source\\repos\\miniGame\\UserManager.hpp",
+              "RelativeToolTip": "UserManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T09:07:00.941Z",
               "EditorCaption": ""
             }
           ]

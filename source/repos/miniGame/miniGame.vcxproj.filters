@@ -48,6 +48,9 @@
     <ClCompile Include="Garen.cpp">
       <Filter>소스 파일\챔피언</Filter>
     </ClCompile>
+    <ClCompile Include="UserManger.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Battle.hpp">
@@ -73,6 +76,9 @@
     </ClInclude>
     <ClInclude Include="Garen.hpp">
       <Filter>헤더 파일\챔피언 헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="UserManager.hpp">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

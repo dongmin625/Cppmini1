@@ -1,0 +1,13 @@
+﻿  Ahri.cpp
+  Battle.cpp
+  Character.cpp
+C:\Users\focus\source\repos\miniGame\Character.cpp(12,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Garen.cpp
+  Item.cpp
+  main.cpp
+  Monster.cpp
+  Player.cpp
+  Units.cpp
+  UserManger.cpp
+  코드를 생성하고 있습니다...
+  miniGame.vcxproj -> C:\Users\focus\source\repos\miniGame\x64\Debug\miniGame.exe
