@@ -131,6 +131,7 @@
     <ClCompile Include="Battle.cpp" />
     <ClCompile Include="Character.cpp" />
     <ClCompile Include="Garen.cpp" />
+    <ClCompile Include="intro.cpp" />
     <ClCompile Include="Item.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Monster.cpp" />
@@ -143,6 +144,7 @@
     <ClInclude Include="Battle.hpp" />
     <ClInclude Include="Character.hpp" />
     <ClInclude Include="Garen.hpp" />
+    <ClInclude Include="intro.hpp" />
     <ClInclude Include="Item.hpp" />
     <ClInclude Include="Monster.hpp" />
     <ClInclude Include="Player.hpp" />

@@ -51,6 +51,9 @@
     <ClCompile Include="UserManger.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="intro.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Battle.hpp">
@@ -78,6 +81,9 @@
       <Filter>헤더 파일\챔피언 헤더</Filter>
     </ClInclude>
     <ClInclude Include="UserManager.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="intro.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
